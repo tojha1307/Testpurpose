@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test name="Test1">
+    <packages>
+      <package name="com.qa.tests"/>
+    </packages>
+  </test>
+  
+ <!-- <test name="Test2">
+    <classes>
+      <class name="com.qa.tests.HomepageOLX"/>
+    </classes>
+  </test>
+  
+  <test name="Test3">
+    <classes>
+      <class name="com.qa.tests.NewlaunchesOLX"/>
+    </classes>
+  </test>
+  
+  <test name="Test4">
+    <classes>
+      <class name="com.qa.tests.GoodnewsOLX"/>
+    </classes>
+  </test>
+  
+  <test name="Test5">
+    <classes>
+      <class name="com.qa.tests.OfftoagoodstartOLX"/>
+    </classes>
+  </test>
+  
+  <test name="Test6">
+    <classes>
+      <class name="com.qa.tests.TheGoodsOLX"/>
+    </classes>
+  </test>
+  
+   <test name="Test7">
+    <classes>
+      <class name="com.qa.tests.GoodViewsOLX"/>
+    </classes>
+  </test>
+ --> 
+   <!-- Test -->
+</suite> <!-- Suite -->
