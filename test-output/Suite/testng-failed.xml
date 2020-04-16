@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test2(failed)" parallel="none">
+    <classes>
+      <class name="com.qa.tests.TheGoodsOLX">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.tests.TheGoodsOLX -->
+      <class name="com.qa.tests.NewlaunchesOLX">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.tests.NewlaunchesOLX -->
+      <class name="com.qa.tests.LoginOLX">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.tests.LoginOLX -->
+      <class name="com.qa.tests.OfftoagoodstartOLX">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.tests.OfftoagoodstartOLX -->
+      <class name="com.qa.tests.GoodViewsOLX">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.tests.GoodViewsOLX -->
+      <class name="com.qa.tests.HomepageOLX">
+        <methods>
+          <include name="NewlaunchesNaviagtion"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.tests.HomepageOLX -->
+      <class name="com.qa.tests.GoodnewsOLX">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.tests.GoodnewsOLX -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
